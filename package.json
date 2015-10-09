@@ -1,6 +1,6 @@
 {
   "name": "bc-css-flags",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Countries flags styles using only one picture",
   "main": "",
   "scripts": {
