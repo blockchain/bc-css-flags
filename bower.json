@@ -6,7 +6,6 @@
   ],
   "description": "Countries flags styles using only one picture",
   "main": [
-    "dist/css/bc-css-flags.min.css",
     "dist/css/bc-css-flags.scss",
     "dist/css/bc-css-flags.css",
     "dist/img/flags@2x.png",
