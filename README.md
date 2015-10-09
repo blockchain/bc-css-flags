@@ -25,7 +25,7 @@ You can change this behavior by importing `dist/bc-css-flags.scss` into your own
 variables before importing.
 
 ```sass
-$flagsImagePath: "app/images" !default;
+$flagsImagePath: "app/images";
 
 @import "bower_components/bc-css-flags/dist/bc-css-flags.scss"
 ```
