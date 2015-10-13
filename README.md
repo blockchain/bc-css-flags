@@ -24,8 +24,11 @@ And this images folder is expected to contain: 1)`flags@2x.png`. 2)`flags.png`.
 You can change this behavior by importing `dist/bc-css-flags.scss` into your own Sass files, and changing some of its
 variables before importing.
 
+### Changing the path of the image
 ```sass
 $flagsImagePath: "app/images";
+$flagsImageName: "flags";
+$flagsImageExtension: "png";
 
 @import "bower_components/bc-css-flags/dist/bc-css-flags.scss"
 ```
