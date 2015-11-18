@@ -1,6 +1,6 @@
 {
   "name": "bc-css-flags",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "authors": [
     "Abdullah Alansari <ahimta@gmail.com>"
   ],
@@ -21,9 +21,9 @@
     "flags"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/Ahimta/bc-css-flags",
+  "homepage": "https://github.com/blockchain/bc-css-flags",
   "repository": {
-    "url": "git://github.com/Ahimta/bc-css-flags.git"
+    "url": "git://github.com/blockchain/bc-css-flags.git"
   },
   "ignore": [
     "**/.*",
